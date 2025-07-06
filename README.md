@@ -8,7 +8,7 @@ This project analyzes Diwali sales data using Python to derive business insights
 Python-Diwali-Salesboard/
 ├── Diwali_Sales_Data.csv         # Raw sales data
 ├── diwali_sales_analysis.ipynb   # Jupyter notebook with analysis
-├── output/                       # Generated plots (optional)
+├── output/                       # Generated plots 
 └── README.md                     # Project documentation
 ```
 
@@ -22,7 +22,7 @@ Python-Diwali-Salesboard/
 ## ⚙️ Tech Stack
 
 - **Language**: Python 3
-- **Libraries**: Pandas, Matplotlib, Seaborn, Jupyter Notebook
+- **Libraries**: Pandas, Matplotlib, Jupyter Notebook
 - **Tools**: VS Code / JupyterLab
 
 ## 🚀 How to Use
