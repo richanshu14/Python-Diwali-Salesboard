@@ -37,7 +37,7 @@ cd Python-Diwali-Salesboard
 ### 2. Install Required Libraries
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib 
 ```
 
 ### 3. Run the Notebook
