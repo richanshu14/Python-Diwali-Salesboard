@@ -19,27 +19,32 @@ Python-Diwali-Salesboard/
 - Occupation and marital status impact on sales
 - Product category trends and sales patterns
 
-## 🖼️ Dashboard Previews
+## 📊 Power BI Visual Tour – Sales Comparisons
 
-<p align="left">
-  <strong>Gender-based sales</strong><br>
-  <img src="images/Analysis1.png" width="45%" alt="Gender-based sales" />
-  &nbsp;&nbsp;
-  
-  <strong>Age-based sales</strong><br>
-  <img src="images/Analysis2.png" width="45%" alt="Age-based sales" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Gender-based Sales</strong><br>
+      <img src="images/Analysis1.png" width="300px" alt="Gender-based sales"/>
+    </td>
+    <td align="center">
+      <strong>Age-based Sales</strong><br>
+      <img src="images/Analysis2.png" width="300px" alt="Age-based sales"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>State-based Performance</strong><br>
+      <img src="images/Analysis3.png" width="300px" alt="State-based performance"/>
+    </td>
+    <td align="center">
+      <strong>Occupation-based Performance</strong><br>
+      <img src="images/Analysis4.png" width="300px" alt="Occupation-based performance"/>
+    </td>
+  </tr>
+</table>
 
-<br>
 
-<p align="left">
-  <strong>State-based performance</strong><br>
-  <img src="images/Analysis3.png" width="45%" alt="State-based performance" />
-  &nbsp;&nbsp;
-  
-  <strong>Occupation-based performance</strong><br>
-  <img src="images/Analysis4.png" width="45%" alt="Occupation-based performance" />
-</p>
 
 ## ⚙️ Tech Stack
 
