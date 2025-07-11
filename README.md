@@ -21,17 +21,25 @@ Python-Diwali-Salesboard/
 
 ## 🖼️ Dashboard Previews
 
-### 1️⃣ Occupation-wise Purchase Pattern
-![Occupation Overview](Analysis4.png)
+<p align="left">
+  <strong>Gender-based sales</strong><br>
+  <img src="images/Analysis1.png" width="45%" alt="Gender-based sales" />
+  &nbsp;&nbsp;
+  
+  <strong>Age-based sales</strong><br>
+  <img src="images/Analysis2.png" width="45%" alt="Age-based sales" />
+</p>
 
-### 2️⃣ Gender-wise Purchase Pattern
-![Gender Distribution](Analysis1.png)
+<br>
 
-### 3️⃣ Age Group Spending Trends
-![Age Group Sales](Analysis2.png)
-
-### 4️⃣ State-wise Performance
-![State-wise Sales](Analysis3.png)
+<p align="left">
+  <strong>State-based performance</strong><br>
+  <img src="images/Analysis3.png" width="45%" alt="State-based performance" />
+  &nbsp;&nbsp;
+  
+  <strong>Occupation-based performance</strong><br>
+  <img src="images/Analysis4.png" width="45%" alt="Occupation-based performance" />
+</p>
 
 ## ⚙️ Tech Stack
 
