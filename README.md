@@ -19,6 +19,20 @@ Python-Diwali-Salesboard/
 - Occupation and marital status impact on sales
 - Product category trends and sales patterns
 
+## 🖼️ Dashboard Previews
+
+### 1️⃣ Occupation-wise Purchase Pattern
+![Occupation Overview](Analysis4.png)
+
+### 2️⃣ Gender-wise Purchase Pattern
+![Gender Distribution](Analysis1.png)
+
+### 3️⃣ Age Group Spending Trends
+![Age Group Sales](Analysis2.png)
+
+### 4️⃣ State-wise Performance
+![State-wise Sales](Analysis3.png)
+
 ## ⚙️ Tech Stack
 
 - **Language**: Python 3
